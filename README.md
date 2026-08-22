@@ -286,7 +286,6 @@ Developing a practical engineering foundation through academic coursework, softw
 </picture>
 
 </div>
-
 ---
 
 # Current Focus
