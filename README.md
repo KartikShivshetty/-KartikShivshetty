@@ -68,46 +68,6 @@ I work primarily with **Python, C, and C++**, and enjoy combining programming, e
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KartikShivshetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikShivshetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KartikShivshetty&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
-
 # AI / ML
 
 | Domain | Level | Focus |
@@ -174,6 +134,22 @@ Building practical engineering experience through software development, data str
 
 ---
 
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KartikShivshetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikShivshetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KartikShivshetty&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+
+</div>
+
+---
+
 # GitHub Trophies
 
 <div align="center">
@@ -189,6 +165,30 @@ Building practical engineering experience through software development, data str
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikShivshetty&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
