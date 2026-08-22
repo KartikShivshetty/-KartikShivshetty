@@ -3,14 +3,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:312e81&height=220&section=header&text=Kartik%20Shivshetty&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;AI+%7C+ML+%7C+Embedded+Systems;Software+%26+Hardware+Builder;Exploring+Intelligent+Systems+%26+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;AI+%7C+ML+%7C+Embedded+Systems;Software+%26+Hardware+Builder;Exploring+Intelligent+Systems+%26+Robotics" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/KLE%20Technological%20University-4338CA?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://www.google.com/search?q=Computer+Science+%26+Engineering">
+  <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+<a href="https://www.google.com/search?q=KLE+Technological+University">
+  <img src="https://img.shields.io/badge/KLE%20Technological%20University-4338CA?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+<a href="https://www.google.com/search?q=India">
+  <img src="https://img.shields.io/badge/India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -21,6 +29,7 @@
 <img src="https://komarev.com/ghpvc/?username=KartikShivshetty&style=for-the-badge&color=4C1D95&label=PROFILE+VIEWS"/>
 
 <img src="https://img.shields.io/github/followers/KartikShivshetty?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
+
 <img src="https://img.shields.io/github/stars/KartikShivshetty?style=for-the-badge&color=7C3AED&label=STARS"/>
 
 </div>
@@ -29,31 +38,13 @@
 
 # About
 
-I am a **Computer Science and Engineering student at KLE Technological University** with a strong interest in building practical systems at the intersection of **software, artificial intelligence, embedded systems, and robotics**.
+I am a **Computer Science and Engineering student at KLE Technological University** interested in building practical systems across **software, AI/ML, embedded systems, and robotics**.
 
-My work spans from low-level programming and microcontroller-based automation to AI-assisted applications and software development. I enjoy taking an idea from a concept into a functioning system by combining **programming, electronics, automation, sensors, and intelligent interaction**.
+I work primarily with **Python, C, and C++**, and enjoy combining programming, electronics, automation, sensors, and intelligent interaction to turn ideas into working systems.
 
-I primarily work with **Python, C, and C++**, while exploring AI/ML, embedded development, system design, and modern software tooling.
+**Interests:** Software Engineering · AI/ML · Embedded Systems · Robotics · Intelligent Applications
 
-### Engineering Interests
-
-- Software Engineering
-- Artificial Intelligence & Machine Learning
-- Embedded Systems
-- Robotics & Automation
-- Intelligent Applications
-- Systems Programming
-- Hardware–Software Integration
-- Experimental Product Development
-
-### Open To
-
-- Software Engineering opportunities
-- AI / ML projects
-- Embedded & robotics projects
-- Open-source collaboration
-- Technical research and experimentation
-- Building practical products and intelligent systems
+**Open to:** Software projects · AI/ML collaboration · Embedded systems · Open-source work
 
 ---
 
@@ -61,50 +52,30 @@ I primarily work with **Python, C, and C++**, while exploring AI/ML, embedded de
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js"/>
 
-### Frontend
+### Embedded
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
-### Backend & Databases
+**Platforms:** ESP32 · Arduino UNO Q · Sensors · Stepper Motors · Motor Drivers
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
-</p>
+### Development
 
-### Embedded Systems & Hardware
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-**Hardware & Platforms:** ESP32 · Arduino UNO Q · Sensors · Stepper Motors · Relay Systems · Motor Drivers · Automation Systems
-
-### Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-**Development:** Git · GitHub · VS Code · Arduino IDE · Python Virtual Environments
+**Tools:** Git · GitHub · VS Code · Arduino IDE · Pandas · NumPy · Matplotlib
 
 ---
 
-# AI / ML Expertise
+# AI / ML
 
-| Domain | Proficiency | Details |
+| Domain | Level | Focus |
 |---|---|---|
-| Python for AI | Intermediate | Python-based experimentation, automation and application development |
-| Machine Learning | Developing | Exploring ML concepts, statistical methods and practical applications |
-| LLMs & AI Assistants | Developing | Experimenting with LLM-powered applications, AI assistants and API-based workflows |
-| Speech & TTS | Developing | Experimentation with text-to-speech systems and neural voice models |
-| Data Analysis | Intermediate | Pandas, NumPy, Matplotlib and statistical analysis |
-| AI Applications | Developing | Interested in integrating AI into practical software and interactive systems |
+| Python & Data Analysis | Intermediate | Pandas, NumPy, Matplotlib, statistical analysis |
+| Machine Learning | Developing | ML concepts and practical experimentation |
+| LLMs & AI Assistants | Developing | LLM applications, APIs and assistant workflows |
+| Speech & TTS | Developing | Text-to-speech systems and neural voice models |
 
 ---
 
@@ -113,78 +84,33 @@ I primarily work with **Python, C, and C++**, while exploring AI/ML, embedded de
 <details>
 <summary><strong>Bottle Crimping Machine — ESP32 Automation System</strong></summary>
 
-### Overview
+Automated bottle capping system using ESP32, IR sensors, stepper-motor positioning and relay-controlled motors.
 
-An automated bottle crimping system combining **ESP32 control, IR sensing, stepper-motor positioning and relay-controlled motors** to automate the bottle capping process.
+**Stack:** ESP32 · C++ · Arduino · AccelStepper · A4988 · NEMA 17
 
-| Attribute | Details |
-|---|---|
-| **Stack** | ESP32 · C++ · Arduino · AccelStepper · IR Sensors · A4988 · NEMA 17 |
-| **Scale** | Multi-stage physical automation system |
-| **Performance** | Sensor-driven sequential operation with controlled motor timing |
-| **Security** | Local embedded control without external network dependency |
-| **Impact** | Demonstrates hardware–software integration and industrial-style automation |
-
-### Engineering Scope
-
-- Designed the control logic for a multi-stage automated workflow.
-- Integrated multiple IR sensors for bottle detection and carriage positioning.
-- Controlled a **NEMA 17 stepper motor through an A4988 driver**.
-- Implemented motor control through relay modules.
-- Used timed sequencing for the capping mechanism.
-- Worked with noisy sensor signals and iteratively debugged the physical system.
-- Integrated hardware components into a complete working automation pipeline.
+**Work:** Designed the control sequence, integrated sensors and motors, implemented positioning logic, and debugged physical hardware issues.
 
 </details>
 
 <details>
 <summary><strong>ESP32 Environmental Monitoring System</strong></summary>
 
-### Overview
+ESP32-based environmental monitoring system using a BMP280 sensor and browser-based interface.
 
-A sensor-based monitoring system using an **ESP32 and BMP280 pressure sensor** to collect environmental measurements and expose them through a web-based interface.
+**Stack:** ESP32 · C++ · BMP280 · I2C · Web Interface
 
-| Attribute | Details |
-|---|---|
-| **Stack** | ESP32 · C++ · BMP280 · I2C · Web Interface |
-| **Scale** | Embedded IoT-style monitoring system |
-| **Performance** | Real-time sensor measurement and browser-based monitoring |
-| **Security** | Local network-based system |
-| **Impact** | Demonstrates sensor integration, embedded networking and real-time monitoring |
-
-### Engineering Scope
-
-- Integrated the BMP280 sensor using I2C communication.
-- Worked with sensor libraries and hardware communication.
-- Collected temperature, pressure and altitude measurements.
-- Built a browser-accessible monitoring interface.
-- Debugged sensor addressing and communication issues.
-- Connected embedded hardware with a software-based monitoring layer.
+**Work:** Implemented sensor communication, real-time measurements and a local monitoring interface.
 
 </details>
 
 <details>
-<summary><strong>AI Impact on Job Market — Data & Statistical Analysis</strong></summary>
+<summary><strong>AI Impact on Job Market</strong></summary>
 
-### Overview
+Academic statistical analysis exploring the relationship between AI adoption, automation and employment.
 
-An academic project investigating the impact of **artificial intelligence and automation on employment**, using statistical and data-analysis concepts to study the relationship between technological adoption and the job market.
+**Stack:** Python · Pandas · NumPy · Matplotlib · Statistics
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · Pandas · NumPy · Matplotlib · Statistics |
-| **Scale** | Academic data-analysis project |
-| **Performance** | Structured statistical analysis and visualization |
-| **Security** | Not applicable |
-| **Impact** | Applies statistical reasoning to a contemporary AI-driven economic problem |
-
-### Engineering Scope
-
-- Applied statistical concepts to a real-world AI-related problem.
-- Worked with structured datasets and data analysis.
-- Used Python-based tools for analysis and visualization.
-- Interpreted trends and relationships within the available data.
-- Connected quantitative analysis with the broader effects of AI adoption.
+**Work:** Applied statistical methods, data analysis and visualization to study AI-related employment trends.
 
 </details>
 
@@ -196,36 +122,15 @@ An academic project investigating the impact of **artificial intelligence and au
 
 **KLE Technological University · 2025 — Present**
 
-Developing a practical engineering foundation through academic coursework, software development, embedded systems, data structures, statistics and independent technical experimentation.
+Building practical engineering experience through software development, data structures, embedded systems, statistics and independent technical projects.
 
-**Scope of Work**
+- Develop modular programs using C, C++ and Python.
+- Build ESP32 and Arduino-based embedded systems.
+- Work with sensors, motors, drivers and automation.
+- Explore AI/ML, LLMs and intelligent software applications.
+- Document academic and engineering work through GitHub.
 
-- Develop modular programs using **C, C++ and Python**.
-- Implement data structures including linked lists, stacks and queues.
-- Build embedded systems using **ESP32 and Arduino platforms**.
-- Integrate sensors, motors, drivers and relay-based control systems.
-- Experiment with AI, ML, LLMs and intelligent software applications.
-- Maintain and document academic and engineering projects through GitHub.
-- Debug both software and hardware systems through iterative testing.
-
-**Core Skills**
-
-`C` `C++` `Python` `Git` `GitHub` `ESP32` `Arduino` `Data Structures` `AI/ML` `Embedded Systems` `Robotics`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **Engineering Projects** | Designed and developed practical embedded automation systems combining software and hardware |
-| **AI & Software Exploration** | Built and experimented with AI-assisted applications, LLM workflows and intelligent software concepts |
-| **Technical Portfolio** | Maintaining structured GitHub repositories for academic and engineering work |
-| **Hands-On Engineering** | Developed systems involving sensors, motors, microcontrollers, automation and real-time control |
-
-</div>
+**Core:** `C` `C++` `Python` `Git` `ESP32` `Arduino` `AI/ML` `Embedded Systems`
 
 ---
 
@@ -286,6 +191,7 @@ Developing a practical engineering foundation through academic coursework, softw
 </picture>
 
 </div>
+
 ---
 
 # Current Focus
@@ -303,42 +209,15 @@ Building:
   - Embedded automation systems
   - AI-powered applications
   - Practical software projects
-  - GitHub engineering portfolios
 
 Exploring:
   - LLM applications
   - Intelligent assistants
   - Robotics
   - Hardware-software integration
-  - Creative engineering projects
 
 Open To:
   - Software engineering projects
   - AI/ML collaboration
   - Embedded systems projects
   - Open-source contributions
-  - Technical experimentation
-````
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/KartikShivshetty">
-<img src="https://img.shields.io/badge/GitHub-KartikShivshetty-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Build. Break. Debug. Learn. Build Better.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:4c1d95&height=120&section=footer" width="100%"/>
-
-</div>
-```
