@@ -68,6 +68,22 @@ I work primarily with **Python, C, and C++**, and enjoy combining programming, e
 
 ---
 
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KartikShivshetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikShivshetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KartikShivshetty&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+
+</div>
+
+---
+
 # Contribution Snake
 
 <div align="center">
@@ -155,22 +171,6 @@ Building practical engineering experience through software development, data str
 - Document academic and engineering work through GitHub.
 
 **Core:** `C` `C++` `Python` `Git` `ESP32` `Arduino` `AI/ML` `Embedded Systems`
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KartikShivshetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikShivshetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=KartikShivshetty&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-
-</div>
 
 ---
 
