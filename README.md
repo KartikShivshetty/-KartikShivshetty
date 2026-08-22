@@ -38,7 +38,7 @@
 
 # About
 
-I am a **Computer Science and Engineering student at KLE Technological University** interested in building practical systems across **software, AI/ML, embedded systems, and robotics**.
+I am a **Computer Science Engineering student at KLE Technological University** interested in building practical systems across **software, AI/ML, embedded systems, and robotics**.
 
 I work primarily with **Python, C, and C++**, and enjoy combining programming, electronics, automation, sensors, and intelligent interaction to turn ideas into working systems.
 
