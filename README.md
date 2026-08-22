@@ -68,6 +68,30 @@ I work primarily with **Python, C, and C++**, and enjoy combining programming, e
 
 ---
 
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
 # AI / ML
 
 | Domain | Level | Focus |
@@ -165,30 +189,6 @@ Building practical engineering experience through software development, data str
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikShivshetty&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/KartikShivshetty/KartikShivshetty/output/dist/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
 
 </div>
 
